@@ -36,7 +36,7 @@ def serve():
     
     # Firebase Admin SDK here
     key = {
-    <YOUR-SDK-HERE>
+    "<YOUR-SDK-HERE>"
     }
     # Initialize Firebase SDK
     cred = credentials.Certificate(key)
